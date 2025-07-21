@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Generator",
+  "description": "An intelligent resume generator using Gemini API to help craft professional resumes with industry-specific keywords, ATS compatibility insights, and multiple export formats.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
